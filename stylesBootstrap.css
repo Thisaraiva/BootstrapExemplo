@@ -1,0 +1,80 @@
+
+.div{
+    padding: 35px;
+    margin-bottom: 400px;
+}
+
+h1{
+    color: white;
+    background-color: black;
+    border-top: 15px;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    background-color: grey;
+    border: 1px solid black;
+    margin: 5px;
+    min-height: 400px;
+}
+
+.section1{
+    background-color: crimson;
+    border: 1px solid black;
+    color: yellow;
+}
+
+.section2{
+    background-color: darkslategrey;
+    border: 1px solid black;
+    color: white;
+}
+
+h3{
+    min-height: 40px;
+    min-width: 115px;
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    background-color: blue;
+    border: 1px solid black;
+    margin-top: -1px;
+    margin-right: -1px;
+    float: right;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    position: relative;
+}
+
+.h31{
+    color: white;
+    background-color: peru;
+    
+}
+
+.h32{
+    color: white;
+    background-color: green;
+    
+}
+
+p{
+    text-align: justify;
+    clear: both;
+    margin: 3%;
+    font-style: italic;
+}
+
+/* width: min-content;
+   height: min-content;
+   min-width: 10px;
+   min-height: 5px; */
